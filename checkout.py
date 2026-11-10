@@ -1,0 +1,1 @@
+# Calculate total, tax, discounts (optional), prices, stock, and payment

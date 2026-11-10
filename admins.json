@@ -1,0 +1,29 @@
+{
+    "administrators": [
+        {
+            "admin_name": "Adrian",
+            "password": "0000",
+            "role": "admin",
+            "active": true
+        },
+        {
+            "admin_name": "Sunhak",
+            "password": "....",
+            "role": "admin",
+            "active": true
+        },
+        {
+            "admin_name": "Brent",
+            "password": "....",
+            "role": "admin",
+            "active": true
+        },
+        {
+            "admin_name": "Parth",
+            "password": "....",
+            "role": "admin",
+            "active": true
+        }
+
+    ]
+}
